@@ -25,13 +25,13 @@
             { id: 20, name: "Sop Buntut", price: 50000, category: "Aneka Sop & Sayuran", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=400&q=80" },
             { id: 21, name: "Rawon", price: 30000, category: "Aneka Sop & Sayuran", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=400&q=80" },
             { id: 22, name: "Cah Kangkung", price: 15000, category: "Aneka Sop & Sayuran", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=400&q=80" },
-            { id: 23, name: "Cap Cay", price: 25000, category: "Aneka Sop & Sayuran", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=400&q=80" },
+            { id: 23, name: "Cap Cay", price: 30000, category: "Aneka Sop & Sayuran", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=400&q=80" },
 
             // MAKANAN - Gurame & Udang
-            { id: 24, name: "Gurame Bakar", price: 75000, category: "Aneka Gurame & Udang", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80" },
-            { id: 25, name: "Gurame Asam Manis", price: 75000, category: "Aneka Gurame & Udang", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80" },
-            { id: 26, name: "Gurame Rica-Rica", price: 75000, category: "Aneka Gurame & Udang", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80" },
-            { id: 27, name: "Gurame Goreng", price: 70000, category: "Aneka Gurame & Udang", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80" },
+            { id: 24, name: "Gurame Bakar", price: 0, category: "Aneka Gurame & Udang", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80" },
+            { id: 25, name: "Gurame Asam Manis", price: 0, category: "Aneka Gurame & Udang", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80" },
+            { id: 26, name: "Gurame Rica-Rica", price: 0, category: "Aneka Gurame & Udang", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80" },
+            { id: 27, name: "Gurame Goreng", price: 0, category: "Aneka Gurame & Udang", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80" },
             { id: 28, name: "Udang Goreng", price: 75000, category: "Aneka Gurame & Udang", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=400&q=80" },
             { id: 29, name: "Udang Asam Manis", price: 85000, category: "Aneka Gurame & Udang", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=400&q=80" },
 
