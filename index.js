@@ -22,7 +22,7 @@
 
             // MAKANAN - Sop & Sayuran
             { id: 19, name: "Sop Iga", price: 50000, category: "Aneka Sop & Sayuran", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=400&q=80" },
-            { id: 20, name: "Sop Buntut", price: 50000, category: "Aneka Sop & Sayuran", type: "makanan", isAvailable: false, image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=400&q=80" },
+            { id: 20, name: "Sop Buntut", price: 50000, category: "Aneka Sop & Sayuran", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=400&q=80" },
             { id: 21, name: "Rawon", price: 30000, category: "Aneka Sop & Sayuran", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=400&q=80" },
             { id: 22, name: "Cah Kangkung", price: 15000, category: "Aneka Sop & Sayuran", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=400&q=80" },
             { id: 23, name: "Cap Cay", price: 25000, category: "Aneka Sop & Sayuran", type: "makanan", isAvailable: true, image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=400&q=80" },
